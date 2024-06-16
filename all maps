@@ -303,7 +303,7 @@ idk13.Size = UDim2.new(0, 94, 0, 35)
 
 idk13.Font = Enum.Font.Cartoon
 
-idk13.Text = "كيبورد"
+idk13.Text = "بلوكس فروت🔥"
 
 idk13.TextColor3 = Color3.fromRGB(0, 0, 0)
 
@@ -311,8 +311,7 @@ idk13.TextSize = 20.000
 
 idk13.MouseButton1Down:connect(function()
 
- loadstring(game:HttpGet("https://raw.githubusercontent.com/advxzivhsjjdhxhsidifvsh/mobkeyboard/main/main.txt", true))()
-
+ loadstring(game:HttpGet("https://raw.githubusercontent.com/REDzHUB/BloxFruits/main/redz9999"))()
 end)
 
 idk14.Parent = Frame
