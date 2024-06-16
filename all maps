@@ -256,7 +256,7 @@ end)
 
 idk8.Parent = Frame
 
-idk8.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
+idk8.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
 
 idk8.Position = UDim2.new(0.34, 0, 0.6, 0)
 
@@ -266,7 +266,7 @@ idk8.Font = Enum.Font.Cartoon
 
 idk8.Text = "18+"
 
-idk8.TextColor3 = Color3.fromRGB(0, 0, 0)
+idk8.TextColor3 = Color3.fromRGB(255, 0, 0)
 
 idk8.TextSize = 20.000
 
