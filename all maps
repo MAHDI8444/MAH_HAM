@@ -284,7 +284,7 @@ idk12.Size = UDim2.new(0, 94, 0, 35)
 
 idk12.Font = Enum.Font.Cartoon
 
-idk12.Text = "بلوكس فروت"
+idk12.Text = "ragdoll"
 
 idk12.TextColor3 = Color3.fromRGB(0, 0, 0)
 
@@ -292,8 +292,7 @@ idk12.TextSize = 20.000
 
 idk12.MouseButton1Down:connect(function()
 
- loadstring(game:HttpGet('https://raw.githubusercontent.com/VEZ2/NEVAHUB/main/2'))()
-
+ loadstring(game:HttpGet('https://raw.githubusercontent.com/n0kc/AtomicHub/main/Script.lua'))()
 end)
 
 idk13.Parent = Frame
