@@ -110,7 +110,7 @@ idk1.Size = UDim2.new(0, 94, 0, 35)
 
 idk1.Font = Enum.Font.Cartoon
 
-idk1.Text = "اختفاء"
+idk1.Text = "ماب بيوت2"
 
 idk1.TextColor3 = Color3.fromRGB(0, 0, 0)
 
@@ -118,8 +118,7 @@ idk1.TextSize = 20.000
 
 idk1.MouseButton1Down:connect(function()
 
-  loadstring(game:HttpGet('https://pastebin.com/raw/AYtzGEPb'))()
-
+  loadstring(game:HttpGet("https://raw.githubusercontent.com/REDzHUB/REDzHUB/main/REDzHUB"))()
 end)
 
 idk2.Parent = Frame
@@ -284,7 +283,7 @@ idk12.Size = UDim2.new(0, 94, 0, 35)
 
 idk12.Font = Enum.Font.Cartoon
 
-idk12.Text = "ragdoll"
+idk12.Text = "راقدول"
 
 idk12.TextColor3 = Color3.fromRGB(0, 0, 0)
 
@@ -327,7 +326,7 @@ idk14.Size = UDim2.new(0, 94, 0, 35)
 
 idk14.Font = Enum.Font.Cartoon
 
-idk14.Text = "emotes"
+idk14.Text = "رقصات"
 
 idk14.TextColor3 = Color3.fromRGB(0, 0, 0)
 
