@@ -72,7 +72,7 @@ TextButton.Size = UDim2.new(0, 303, 0, 35)
 
 TextButton.Font = Enum.Font.Cartoon
 
-TextButton.Text = "👑HAM亗MAH👑"
+TextButton.Text = "🔥حمزه و مهدي🔥"
 
 TextButton.TextColor3 = Color3.fromRGB(0, 0, 0)
 
