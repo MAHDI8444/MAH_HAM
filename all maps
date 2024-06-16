@@ -375,7 +375,7 @@ close.Font = Enum.Font.GothamBlack
 
 close.Text = "X"
 
-close.TextColor3 = Color3.new(255, 0, 0)
+close.TextColor3 = Color3.new(0, 0, 0)
 
 close.TextScaled = true
 
