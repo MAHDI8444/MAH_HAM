@@ -256,7 +256,7 @@ end)
 
 idk8.Parent = Frame
 
-idk8.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+idk8.BackgroundColor3 = Color3.fromRGB(242, 243, 243)
 
 idk8.Position = UDim2.new(0.34, 0, 0.6, 0)
 
