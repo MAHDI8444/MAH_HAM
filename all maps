@@ -264,7 +264,7 @@ idk8.Size = UDim2.new(0, 94, 0, 35)
 
 idk8.Font = Enum.Font.Cartoon
 
-idk8.Text = "DOORS"
+idk8.Text = "18+"
 
 idk8.TextColor3 = Color3.fromRGB(0, 0, 0)
 
@@ -273,7 +273,6 @@ idk8.TextSize = 20.000
 idk8.MouseButton1Down:connect(function()
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/n0kc/AtomicHub/main/Map-Al-Biout.lua"))()
-
 end)
 
 idk12.Parent = Frame
