@@ -272,7 +272,7 @@ idk8.TextSize = 20.000
 
 idk8.MouseButton1Down:connect(function()
 
-loadstring(game:HttpGet(("https://raw.githubusercontent.com/mstudio45/MSDOORS/main/MSHUB_Loader.lua"),true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/n0kc/AtomicHub/main/Map-Al-Biout.lua"))()
 
 end)
 
