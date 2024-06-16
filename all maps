@@ -205,8 +205,7 @@ idk5.TextSize = 20.000
 
 idk5.MouseButton1Down:connect(function()
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/DreadzHub2/DreadzHub-Scripts-FR/main/Loader"))()
-
+loadstring(game:HttpGet("https://raw.githubusercontent.com/VR7ss/VR7/main/MM2"))()
 end)
 
 idk6.Parent = Frame
