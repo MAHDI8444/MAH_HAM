@@ -266,7 +266,7 @@ idk8.Font = Enum.Font.Cartoon
 
 idk8.Text = "18+"
 
-idk8.TextColor3 = Color3.fromRGB(255, 0, 0)
+idk8.TextColor3 = Color3.fromRGB(0, 0, 0)
 
 idk8.TextSize = 20.000
 
