@@ -228,8 +228,7 @@ idk6.TextSize = 20.000
 
 idk6.MouseButton1Down:connect(function()
 
- loadstring(game:HttpGet("https://raw.githubusercontent.com/IceMael7/NewIceHub/main/Brookhaven"))()
-
+ loadstring(game:HttpGet("https://raw.githubusercontent.com/JulHubz/JulHub/main/JulHub"))()
 end)
 
 idk7.Parent = Frame
@@ -329,7 +328,7 @@ idk14.Size = UDim2.new(0, 94, 0, 35)
 
 idk14.Font = Enum.Font.Cartoon
 
-idk14.Text = "بت سمليتر"
+idk14.Text = "emotes"
 
 idk14.TextColor3 = Color3.fromRGB(0, 0, 0)
 
@@ -337,8 +336,7 @@ idk14.TextSize = 20.000
 
 idk14.MouseButton1Down:connect(function()
 
- loadstring(game:HttpGetAsync("https://gitlab.com/Sky2836/test/-/raw/main/Mobile"))()
-
+ loadstring(game:HttpGet("https://scriptblox.com/raw/Brookhaven-RP-all-emotes-6849"))()
 end)
 
 idk9.Parent = Frame
