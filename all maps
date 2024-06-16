@@ -74,7 +74,7 @@ TextButton.Font = Enum.Font.Cartoon
 
 TextButton.Text = "🔥حمزه و مهدي🔥"
 
-TextButton.TextColor3 = Color3.fromRGB(40, 127, 71)
+TextButton.TextColor3 = Color3.fromRGB(132, 182, 141)
 
 TextButton.TextSize = 40.000
 
